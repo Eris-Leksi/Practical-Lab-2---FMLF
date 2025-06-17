@@ -1,4 +1,4 @@
-This project contains a Jupyter Notebook (`script.ipynb`) that performs data analysis using Python. It may include tasks such as data preprocessing, visualization, model training, and evaluation. The notebook is designed for experimentation, reproducibility, and presentation of data science workflows.
+This project contains a Jupyter Notebook (`script.ipynb`) that performs data analysis and 4 model trainings using Python. It may include tasks such as data preprocessing, visualization, model training, and evaluation. The notebook is designed for experimentation, reproducibility, and presentation of data science workflows.
 
 ##  Files:
 
